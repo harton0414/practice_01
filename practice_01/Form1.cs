@@ -15,6 +15,7 @@ namespace practice_01
         public Form1()
         {
             InitializeComponent();
+            // 打個註解
         }
     }
 }
